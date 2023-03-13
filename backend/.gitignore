@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+Gemfile.lock
+.env
+package-lock.json
+uploads
+*.pdf
+ecosystem.json
